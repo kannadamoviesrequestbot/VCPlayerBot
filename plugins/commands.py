@@ -129,8 +129,8 @@ async def start(client, message):
         return
     buttons = [
         [
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),
-            InlineKeyboardButton('🧩 Source', url='https://github.com/subinps/VCPlayerBot')
+            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17'),
+            InlineKeyboardButton('🧩 Group', url='https://t.me/searchkannadamovies')
         ],
         [
             InlineKeyboardButton('👨🏼‍🦯 Help', callback_data='help_main'),
@@ -188,11 +188,11 @@ async def show_help(client, message):
 async def repo_(client, message):
     buttons = [
         [
-            InlineKeyboardButton('🧩 Repository', url='https://github.com/subinps/VCPlayerBot'),
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/subin_works'),     
+            InlineKeyboardButton('🧩 Group', url='https://t.me/searchkannadamovies'),
+            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/BAGURUJOINAGUUKANNADAMOVIES_17'),     
         ],
         [
-            InlineKeyboardButton("🎞 How to Deploy", url='https://youtu.be/mnWgZMrNe_0'),
+            InlineKeyboardButton("🎞  Develper", url='https://t.me/beereshbanakards'),
             InlineKeyboardButton('🗑 Close', callback_data='close'),
         ]
     ]
